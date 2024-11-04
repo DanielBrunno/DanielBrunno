@@ -1,7 +1,7 @@
 <div class="Box-body p-4">
     <article class="markdown-body entry-content container-lg f5" itemprop="text">
-
- 		<p dir="auto"> <!---	Img dinamica superior --->
+ <!---	Img dinamica superior --->
+ 		<p dir="auto">
 			<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25e503d306901d25a1a37ae992b4f54bd59fc49290116754802f77e87cf48ad9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d686561646572">
 				<img width="100%" src="https://camo.githubusercontent.com/25e503d306901d25a1a37ae992b4f54bd59fc49290116754802f77e87cf48ad9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=008B8B&amp;height=120&amp;section=header" style="max-width: 100%;">
 			</a>
