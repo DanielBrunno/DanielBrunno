@@ -19,15 +19,6 @@
 
 
 
-	<p dir="auto">
-			<a href="https://git.io/typing-svg" rel="nofollow">
-				<img src="https://camo.githubusercontent.com/ae16ffe6173a23e8bff6ad1c1763d1f8d36abb7a419ad3be13c12045bcd19683/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d3030384238422673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d48454c4c4f2c2b4d792b6e616d652b69732b4a6f656c2b4d61796b6f6e3b53747564656e742b4d61737465722b4465677265652b696e2b4172746966696369616c2b496e74656c6c6967656e63653b42652b57656c636f6d65212b3a253239" alt="Typing SVG" 
-				data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=008B8B&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Daniel+Bruno;Student+Master+Degree+in+Artificial+Intelligence;Be+Welcome!+:%29" style="max-width: 100%;">
-			</a>
-		</p>
-
-
-
   
 
 <!---
