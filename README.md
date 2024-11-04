@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=goodjack&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
   </a>
 </p> 
 
