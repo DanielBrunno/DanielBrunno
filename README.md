@@ -15,9 +15,9 @@
 - 💞️ Pretendo colaborar na Tecnologia e Inovação com pesquisas e criação em soluções de sistemas;
 - 📫 Como entrar em contato comigo: danielbrito.ti@gmail.com.
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B94C3&width=435&lines=Hello!+My+name+is+Daniel+Bruno.+I+am+;Student+Master+Degree+in+Artificial;Intelligence+be+Welcome!%3A" alt="Typing SVG" /></a>
-
+<p dir="auto">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B94C3&width=435&lines=Hello!+My+name+is+Daniel+Bruno.+I+am+;Student+Master+Degree+in+Artificial;Intelligence+be+Welcome!%3A" alt="Typing SVG" /></a>
+</p>
 
   
 
