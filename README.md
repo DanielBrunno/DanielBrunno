@@ -43,6 +43,42 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodjack&layout=donut&langs_count=7&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true" alt="goodjack-top-langs" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=goodjack&show_icons=true&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goodjack&theme=dark&ring=1d9bf0&fire=e5c07b&currStreakLabel=1d9bf0&border=323232&sideNums=d8dee9&currStreakNum=d8dee9&sideLabels=d8dee9&locale=zh_Hant&date_format=%5BY-%5Dn-j" alt="goodjack-streak-stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=goodjack&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
     
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d705787fbed9a8bcc6eb9ac406ab495ba7c5b0837ede6ba7ac340705d46c8b50/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/d705787fbed9a8bcc6eb9ac406ab495ba7c5b0837ede6ba7ac340705d46c8b50/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=008B8B&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
 
