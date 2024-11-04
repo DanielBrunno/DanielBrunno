@@ -18,16 +18,20 @@ You can click the Preview link to take a look at your changes.
         <a href="/DanielBrunno/DanielBrunno" class="no-underline Link--primary">DanielBrunno</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 </div>
-    
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+
+
+     
 
 
 
-    
+
     
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d705787fbed9a8bcc6eb9ac406ab495ba7c5b0837ede6ba7ac340705d46c8b50/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/d705787fbed9a8bcc6eb9ac406ab495ba7c5b0837ede6ba7ac340705d46c8b50/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=008B8B&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
 
 
 
 
-
+</article>
 </div>
