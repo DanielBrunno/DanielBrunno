@@ -36,16 +36,16 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=1&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true" alt="goodjack-top-langs" />
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=1&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt&include_all_commits=true" alt="goodjack-top-langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=1d9bf0&fire=e5c07b&currStreakLabel=1d9bf0&border=323232&sideNums=d8dee9&currStreakNum=d8dee9&sideLabels=d8dee9&locale=zh_Hant&date_format=%5BY-%5Dn-j" alt="goodjack-streak-stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=1d9bf0&fire=e5c07b&currStreakLabel=1d9bf0&border=323232&sideNums=d8dee9&currStreakNum=d8dee9&sideLabels=d8dee9&locale=pt&date_format=%5BY-%5Dn-j" alt="goodjack-streak-stats" />
   </a>
 </p>
 
@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=goodjack&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
   </a>
 </p>
+
 
 
 
