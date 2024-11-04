@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=1&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt&include_all_commits=true" alt="goodjack-top-langs" />
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=7&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt&include_all_commits=true" alt="goodjack-top-langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
