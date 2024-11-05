@@ -11,12 +11,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Olá!+Meu+nome+é+Daniel+Bruno.+Sou+Graduado+em;+Tecnologia+em+Análise+e+Desenvolvimento+de+Sistemas;+Seja+Bem-vindo!" alt="Typing SVG" /></a>
 </p>
   
-- 👋 Oi, eu sou @DanielBrunno
 - Possuo formação em Análise e Desenvolvimento de Software e Gestão Pública pelo IFRN;
-- Ainda tenho conhecimento técnico em Eletrônica, Robótica e Gerência de Projetos;
-- 👀 Tenho interesse em Pesquisas, processos e Projetos de Desenvolvimento em Software;
-- 🌱 Atualmente estou aprendendo TI, Gestão Pública e Empreendedorismo;
-- 💞️ Pretendo colaborar na Tecnologia e Inovação com pesquisas e criação em soluções de sistemas;
+- Ainda, tenho conhecimento técnico em Eletrônica, Robótica e Gerência de Projetos;
+- 👀 Meu interesse: Pesquisas, processos e Projetos de Desenvolvimento em Software;
+- 🌱 Atualmente estou aprendendo Tecnologia e Inovação, Eletrônica, Gestão Pública e Empreendedorismo;
+- 💞️ Pretendo colaborar na Tecnologia e na Inovação com pesquisas e criação de soluções em sistemas informatizados;
 - 📫 Como entrar em contato comigo: danielbrito.ti@gmail.com.
 
 <!---
@@ -33,14 +32,11 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
   </a>
 </p> 
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
