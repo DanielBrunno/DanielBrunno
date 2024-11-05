@@ -8,7 +8,7 @@
 		</p>
 
 <p dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Hello!+My+name+is+Daniel+Bruno.+I+am+Student+Master+;+Degree+in+Artificial+Intelligence++be+Welcome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Olá!+Meu+nome+é+Daniel+Bruno.+Sou+Graduado;+Tecnologia+em+Análise+e+Desenvolvimento++de+Sistemas.+Seja+Bem-vindo!" alt="Typing SVG" /></a>
 </p>
   
 - 👋 Oi, eu sou @DanielBrunno
