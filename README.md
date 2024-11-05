@@ -12,31 +12,23 @@
 <p dir="auto">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Hello!+My+name+is+Daniel+Bruno.+I+am+Student+Master+;+Degree+in+Artificial+Intelligence++be+Welcome!" alt="Typing SVG" /></a>
 </p>
-
   
   - 👋 Oi, eu sou @DanielBrunno
 - Possuo formação em Análise e Desenvolvimento de Software e Gestão Pública pelo IFRN;
-- - Ainda tenho conhecimento técnico em Eletrônica, Robótica e Gerência de Projetos;
+- Ainda tenho conhecimento técnico em Eletrônica, Robótica e Gerência de Projetos;
 - 👀 Tenho interesse em Pesquisas, processos e Projetos de Desenvolvimento em Software;
 - 🌱 Atualmente estou aprendendo TI, Gestão Pública e Empreendedorismo;
 - 💞️ Pretendo colaborar na Tecnologia e Inovação com pesquisas e criação em soluções de sistemas;
 - 📫 Como entrar em contato comigo: danielbrito.ti@gmail.com.
-
-
-
-
-
-  
 
 <!---
 DanielBrunno/DanielBrunno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=1&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true" alt="goodjack-top-langs" />
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=1&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true" alt="goodjack-top-langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
