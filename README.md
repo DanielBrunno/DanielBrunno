@@ -34,13 +34,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=1d9bf0&langs_count=7&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
   </a>
 </p> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=1d9bf0&fire=e5c07b&currStreakLabel=1d9bf0&border=323232&sideNums=d8dee9&currStreakNum=d8dee9&sideLabels=d8dee9&locale=pt_br&date_format=%5BY-%5Dn-j" alt="goodjack-streak-stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=1d9bf0&langs_count=7&fire=e5c07b&currStreakLabel=1d9bf0&border=323232&sideNums=d8dee9&currStreakNum=d8dee9&sideLabels=d8dee9&locale=pt_br&date_format=%5BY-%5Dn-j" alt="goodjack-streak-stats" />
   </a>
 </p>
 
