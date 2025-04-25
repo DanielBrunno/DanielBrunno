@@ -12,10 +12,11 @@
 </p>
   
 - Possuo formação em Análise e Desenvolvimento de Software e Gestão Pública pelo IFRN;
-- Ainda, tenho conhecimento técnico em Eletrônica, Robótica e Gerência de Projetos;
-- 👀 Meu interesse: Pesquisas, processos e Projetos de Desenvolvimento em Software;
-- 🌱 Atualmente estou aprendendo Tecnologia e Inovação, Eletrônica, Gestão Pública e Empreendedorismo;
-- 💞️ Pretendo colaborar na Tecnologia e na Inovação com pesquisas e criação de soluções em sistemas informatizados;
+- Formação FIC em Sistemas Embarcados pelo IFZL e Embarcatech;
+- Gerência de Projetos e conhecimento técnico em Eletrônica;
+- 👀 Meu interesse: Pesquisas, processos e Projetos de Desenvolvimento em Software e Embarcados;
+- 🌱 Atualmente estou aprendendo Tecnologia e Inovação, Eletrônica, Gestão e Empreendedorismo;
+- 💞️ Pretendo colaborar na Tecnologia e na Inovação com pesquisas e criação de soluções;
 - 📫 Como entrar em contato comigo: danielbrito.ti@gmail.com.
 
 <!---
