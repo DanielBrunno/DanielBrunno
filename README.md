@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Header -->
@@ -31,66 +30,115 @@
 
 <div align="center">
 
-```json
-{
-  "formação": [
-    "Tecnologia em Análise e Desenvolvimento de Sistemas - IFRN",
-    "Gestão Pública - IFRN", 
-    "Sistemas Embarcados - IFZL e Embarcatech"
-  ],
-  "especialidades": [
-    "Desenvolvimento Full Stack",
-    "Sistemas Embarcados & IoT",
-    "Gestão de Projetos de TIC",
-    "Eletrônica Aplicada"
-  ],
-  "interesses": [
-    "Pesquisa e Inovação",
-    "Desenvolvimento de Software",
-    "Tecnologia Embarcada",
-    "Empreendedorismo Tecnológico"
-  ]
-}
+### 🎓 **Formação Acadêmica**
+• Tecnologia em Análise e Desenvolvimento de Sistemas - IFRN
+• Gestão Pública - IFRN
+• Sistemas Embarcados - IFZL e Embarcatech (FIC)
+
+text
+
+### ⚡ **Especialidades**
+• Desenvolvimento Full Stack
+• Sistemas Embarcados & IoT
+• Gestão de Projetos de TIC
+• Eletrônica Aplicada
+
+text
+
+### 🔭 **Áreas de Interesse**
+• Pesquisa e Inovação Tecnológica
+• Desenvolvimento de Software
+• Tecnologia Embarcada
+• Empreendedorismo Tecnológico
+
+text
+
 </div>
-💼 Habilidades Técnicas
-🖥️ Desenvolvimento
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white
 
-🎨 Frontend & Frameworks
-https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+## 💼 Habilidades Técnicas
 
-🗄️ Banco de Dados & Ferramentas
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
+### 🖥️ **Desenvolvimento**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white)
 
-🏆 Conquistas
+### 🎨 **Frontend & Frameworks**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ **Banco de Dados & Ferramentas**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 🏆 Conquistas
+
 <div align="center">
-🎯 Conquista	📅 Ano	🏅 Posição
-LatinoWare	2021	🥈 2º Lugar
+
+| **🎯 Conquista** | **📅 Ano** | **🏅 Posição** |
+|------------------|------------|----------------|
+| **Hackathon LatinoWare** | 2021 | **🥈 2º Lugar** |
+
 </div>
 
-📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center"><!-- Stats Grid --><p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=compact&langs_count=8&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br" alt="Top Languages" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=008B8B&icon_color=2B94C3&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </a> </p><!-- Streak Stats --><p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=008B8B&fire=2B94C3&currStreakLabel=008B8B&border=323232&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&locale=pt_br" alt="Streak Stats" /> </a> </p><!-- Activity Graph --><p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=008B8B&title_color=2B94C3&line=2B94C3&point=FFFFFF&radius=8&area=true&hide_border=true" alt="Activity Graph"> </a> </p></div>
+<div align="center">
 
-🌟 Visão
-"Acredito que a tecnologia é um meio para impactar positivamente a sociedade. Desenvolvo soluções criativas que unem software, hardware e propósito, promovendo transformação digital e inovação."
+<!-- Stats Grid -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=compact&langs_count=8&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=008B8B&icon_color=2B94C3&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-📫 Vamos Conversar?
-📧 Email: danielbrito.ti@gmail.com
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=008B8B&fire=2B94C3&currStreakLabel=008B8B&border=323232&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&locale=pt_br" alt="Streak Stats" />
+  </a>
+</p>
 
-💼 LinkedIn: Daniel Bruno
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=008B8B&title_color=2B94C3&line=2B94C3&point=FFFFFF&radius=8&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
 
-🚀 Sempre aberto a: Colaborações, projetos inovadores e conexões que promovam transformação tecnológica
+</div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer" />
-Obrigado pela visita! ✨
+## 💡 Minha Jornada
 
-</div> ```
-✨ P
+Sou um profissional apaixonado por tecnologia com formação sólida em **Análise e Desenvolvimento de Sistemas** e **Gestão Pública** pelo IFRN, complementada por especialização em **Sistemas Embarcados**. 
+
+Minha trajetória combina:
+- 🛠 **Base técnica** em PHP, Java, C, SQL, JavaScript e MicroPython
+- 🔌 **Experiência prática** em eletrônica aplicada e IoT
+- 📈 **Visão estratégica** em gestão de projetos de TIC e metodologias ágeis
+- 🏆 **Resultados comprovados** como 2º lugar no Hackathon LatinoWare 2021
+
+## 🌟 Visão
+
+> *"Acredito que a tecnologia é um meio para impactar positivamente a sociedade. Desenvolvo soluções criativas que unem software, hardware e propósito, promovendo transformação digital e inovação."*
+
+## 📫 Vamos Conversar?
+
+- 📧 **Email:** [danielbrito.ti@gmail.com](mailto:danielbrito.ti@gmail.com)
+- 💼 **LinkedIn:** [Daniel Bruno](https://linkedin.com/in/seu-perfil) *(atualize com seu link)*
+- 🚀 **Sempre aberto a:** Colaborações, projetos inovadores e conexões que promovam transformação tecnológica
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer" />
+
+**Obrigado pela visita!** ✨
+
+</div>
