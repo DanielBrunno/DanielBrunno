@@ -17,6 +17,13 @@
 - 👀 Meu interesse: Pesquisas, processos e Projetos de Desenvolvimento em Software e Embarcados;
 - 🌱 Atualmente estou aprendendo Tecnologia e Inovação, Eletrônica, Gestão e Empreendedorismo;
 - 💞️ Pretendo colaborar na Tecnologia e na Inovação com pesquisas e criação de soluções;
+-  Minha trajetória combina sólida base técnica em linguagens como PHP, Java, C, SQL, JavaScript e MicroPython, com aplicação prática em bancos de dados relacionais, eletrônica aplicada e IoT.
+
+	Ao longo da minha jornada, participei de hackathons e desafios de inovação, conquistando o 2º lugar no LatinoWare 2021, experiência que reforçou minha capacidade de trabalhar em equipe, resolver problemas complexos e transformar ideias em soluções reais.
+	Tenho vivência em gestão de projetos de TIC e metodologias ágeis, o que me permite unir visão estratégica com execução técnica. Além disso, atuo com versionamento (GitHub/GitLab) e frameworks modernos como Vue.js e React Native, sempre buscando eficiência e inovação.
+
+- Acredito que tecnologia é um meio para impactar positivamente a sociedade. Por isso, sigo desenvolvendo soluções criativas e aplicáveis, que unem software, hardware e propósito.
+🚀 Aberto a conexões, colaborações e projetos que promovam transformação digital e inovação.
 - 📫 Como entrar em contato comigo: danielbrito.ti@gmail.com.
 
 <!---
