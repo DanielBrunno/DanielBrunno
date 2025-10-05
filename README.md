@@ -87,9 +87,22 @@
 <!-- Stats Grid -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=compact&langs_count=8&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br" alt="Top Languages" />
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=compact&langs_count=8&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br&hide=html,css,scss,less,blade,jupyter%20notebook&custom_title=Linguagens%20Mais%20Usadas" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&include_all_commits=true&count_private=true" />
   </a>
 </p>
+
+<!-- Linguagens Específicas -->
+### 🛠️ **Stack Principal**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
