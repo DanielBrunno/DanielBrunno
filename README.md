@@ -35,7 +35,6 @@
 • Gestão Pública - IFRN
 • Sistemas Embarcados - IFZL e Embarcatech (FIC)
 
-text
 
 ### ⚡ **Especialidades**
 • Desenvolvimento Full Stack
@@ -43,7 +42,6 @@ text
 • Gestão de Projetos de TIC
 • Eletrônica Aplicada
 
-text
 
 ### 🔭 **Áreas de Interesse**
 • Pesquisa e Inovação Tecnológica
@@ -51,7 +49,6 @@ text
 • Tecnologia Embarcada
 • Empreendedorismo Tecnológico
 
-text
 
 </div>
 
@@ -101,13 +98,6 @@ text
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=008B8B&fire=2B94C3&currStreakLabel=008B8B&border=323232&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&locale=pt_br" alt="Streak Stats" />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=008B8B&title_color=2B94C3&line=2B94C3&point=FFFFFF&radius=8&area=true&hide_border=true" alt="Activity Graph">
   </a>
 </p>
 
