@@ -1,58 +1,96 @@
-<div class="Box-body p-4">
-    <article class="markdown-body entry-content container-lg f5" itemprop="text">
- 		<!---	Img dinamica superior --->
- 		<p dir="auto">
-			<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25e503d306901d25a1a37ae992b4f54bd59fc49290116754802f77e87cf48ad9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d686561646572">
-				<img width="100%" src="https://camo.githubusercontent.com/25e503d306901d25a1a37ae992b4f54bd59fc49290116754802f77e87cf48ad9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=008B8B&amp;height=120&amp;section=header" style="max-width: 100%;">
-			</a>
-		</p>
 
-<p dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Olá!+Meu+nome+é+Daniel+Bruno.+Sou+Graduado+em;+Tecnologia+em+Análise+e+Desenvolvimento+de+Sistemas;+Seja+Bem-vindo!" alt="Typing SVG" /></a>
-</p>
-  
-- Possuo formação em Análise e Desenvolvimento de Software e Gestão Pública pelo IFRN;
-- Formação FIC em Sistemas Embarcados pelo IFZL e Embarcatech;
-- Gerência de Projetos e conhecimento técnico em Eletrônica;
-- 👀 Meu interesse: Pesquisas, processos e Projetos de Desenvolvimento em Software e Embarcados;
-- 🌱 Atualmente estou aprendendo Tecnologia e Inovação, Eletrônica, Gestão e Empreendedorismo;
-- 💞️ Pretendo colaborar na Tecnologia e na Inovação com pesquisas e criação de soluções;
--  Minha trajetória combina sólida base técnica em linguagens como PHP, Java, C, SQL, JavaScript e MicroPython, com aplicação prática em bancos de dados relacionais, eletrônica aplicada e IoT.
+<div align="center">
 
-	Ao longo da minha jornada, participei de hackathons e desafios de inovação, conquistando o 2º lugar no LatinoWare 2021, experiência que reforçou minha capacidade de trabalhar em equipe, resolver problemas complexos e transformar ideias em soluções reais.
-	Tenho vivência em gestão de projetos de TIC e metodologias ágeis, o que me permite unir visão estratégica com execução técnica. Além disso, atuo com versionamento (GitHub/GitLab) e frameworks modernos como Vue.js e React Native, sempre buscando eficiência e inovação.
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header" />
 
-- Acredito que tecnologia é um meio para impactar positivamente a sociedade. Por isso, sigo desenvolvendo soluções criativas e aplicáveis, que unem software, hardware e propósito.
-🚀 Aberto a conexões, colaborações e projetos que promovam transformação digital e inovação.
-- 📫 Como entrar em contato comigo: danielbrito.ti@gmail.com.
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Olá!+Meu+nome+é+Daniel+Bruno;Desenvolvedor+Full+Stack+e+Embarcados;Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+</a>
 
-<!---
-DanielBrunno/DanielBrunno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=donut&langs_count=7&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true" alt="goodjack-top-langs" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&langs_count=7&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=1d9bf0&title_color=1d9bf0&line=1d9bf0&point=d8dee9&radius=9">
-  </a>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=1d9bf0&langs_count=7&fire=e5c07b&currStreakLabel=1d9bf0&border=323232&sideNums=d8dee9&currStreakNum=d8dee9&sideLabels=d8dee9&locale=pt_br&date_format=%5BY-%5Dn-j" alt="goodjack-streak-stats" />
-  </a>
-</p>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d705787fbed9a8bcc6eb9ac406ab495ba7c5b0837ede6ba7ac340705d46c8b50/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/d705787fbed9a8bcc6eb9ac406ab495ba7c5b0837ede6ba7ac340705d46c8b50/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303038423842266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=008B8B&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
-
-</article>
+<!-- Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-008B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-IoT-2B94C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Management-AGILE-008B8B?style=for-the-badge" />
 </div>
+
+<br/>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielbrito.ti@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+<div align="center">
+
+```json
+{
+  "formação": [
+    "Tecnologia em Análise e Desenvolvimento de Sistemas - IFRN",
+    "Gestão Pública - IFRN", 
+    "Sistemas Embarcados - IFZL e Embarcatech"
+  ],
+  "especialidades": [
+    "Desenvolvimento Full Stack",
+    "Sistemas Embarcados & IoT",
+    "Gestão de Projetos de TIC",
+    "Eletrônica Aplicada"
+  ],
+  "interesses": [
+    "Pesquisa e Inovação",
+    "Desenvolvimento de Software",
+    "Tecnologia Embarcada",
+    "Empreendedorismo Tecnológico"
+  ]
+}
+</div>
+💼 Habilidades Técnicas
+🖥️ Desenvolvimento
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white
+
+🎨 Frontend & Frameworks
+https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+🗄️ Banco de Dados & Ferramentas
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
+
+🏆 Conquistas
+<div align="center">
+🎯 Conquista	📅 Ano	🏅 Posição
+LatinoWare	2021	🥈 2º Lugar
+</div>
+
+📊 Estatísticas do GitHub
+
+<div align="center"><!-- Stats Grid --><p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=compact&langs_count=8&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br" alt="Top Languages" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=008B8B&icon_color=2B94C3&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </a> </p><!-- Streak Stats --><p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=008B8B&fire=2B94C3&currStreakLabel=008B8B&border=323232&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&locale=pt_br" alt="Streak Stats" /> </a> </p><!-- Activity Graph --><p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrunno&bg_color=151515&color=008B8B&title_color=2B94C3&line=2B94C3&point=FFFFFF&radius=8&area=true&hide_border=true" alt="Activity Graph"> </a> </p></div>
+
+🌟 Visão
+"Acredito que a tecnologia é um meio para impactar positivamente a sociedade. Desenvolvo soluções criativas que unem software, hardware e propósito, promovendo transformação digital e inovação."
+
+📫 Vamos Conversar?
+📧 Email: danielbrito.ti@gmail.com
+
+💼 LinkedIn: Daniel Bruno
+
+🚀 Sempre aberto a: Colaborações, projetos inovadores e conexões que promovam transformação tecnológica
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer" />
+Obrigado pela visita! ✨
+
+</div> ```
+✨ P
