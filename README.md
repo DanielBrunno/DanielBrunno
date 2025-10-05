@@ -89,16 +89,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBrunno&layout=compact&langs_count=8&theme=nord&title_color=008B8B&bg_color=151515&border_color=323232&locale=pt-br" alt="Top Languages" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBrunno&show_icons=true&theme=nord&title_color=008B8B&icon_color=2B94C3&bg_color=151515&border_color=323232&locale=pt-br&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrunno&theme=dark&ring=008B8B&fire=2B94C3&currStreakLabel=008B8B&border=323232&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&locale=pt_br" alt="Streak Stats" />
-  </a>
 </p>
 
 </div>
